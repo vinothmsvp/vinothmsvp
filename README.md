@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vinothmsvp
-- 👀 I’m Hiring for Full Stack Developer in DOTNET & NODEJS 
-- 🌱 Also Hiring for UI Web Designers
-- 💞️ Also Hiring for Mobile Application Developer 
+- 👋 Hi, I’m Vinothkumar Madhu, HR IT Recruiter.
+- 👀 I’m Hiring for Full Stack Developer in DOTNET & NODEJS.
+- 🌱 Also Hiring for UI Web Designer.
+- 💞️ Also Hiring for Mobile Application Developer. 
 - 📫 How to reach me ...
 
 <!---
